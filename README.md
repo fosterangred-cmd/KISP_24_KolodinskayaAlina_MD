@@ -34,5 +34,6 @@ KISP_24_KolodinskayaA_RMP
     - git push origin main - Отправка коммита на определенную ветку
     - git push - отправка изменений в текущую ветку
     ```
+
     
 5. Отправить в репозиторий файл .gitignore
