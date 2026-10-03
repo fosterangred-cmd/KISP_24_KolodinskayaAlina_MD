@@ -53,6 +53,7 @@ android/generated/
 *.iml
 .idea/
 
+
 # iOS-специфичные файлы
 ios/build/
 ios/DerivedData/
